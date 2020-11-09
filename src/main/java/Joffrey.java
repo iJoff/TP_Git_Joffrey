@@ -11,4 +11,6 @@
 public class Joffrey {
     // Bonjour, ici Joffrey.
     // Tu avais fais une erreur ^^ 
+    
+    // Création d'un conflit
 }
