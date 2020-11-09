@@ -11,4 +11,5 @@
 public class Joffrey {
     // Bonjour, ici Joffrey.
     // Tu avais fais une erreur ^^ 
+    // Re-bonjour, je crée un conflit en une seule phrase.
 }
