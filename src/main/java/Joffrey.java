@@ -9,6 +9,6 @@
  * @author joffreyviemondesplanque
  */
 public class Joffrey {
-    / Bonjour, ici Joffrey.
-  
+    // Bonjour, ici Joffrey.
+    // Tu avais fais une erreur ^^ 
 }
